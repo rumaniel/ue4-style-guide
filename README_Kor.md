@@ -195,6 +195,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Skeletal Mesh           | SK_        |            |                                  |
 | Skeleton                | SKEL_      |            |                                  |
 
+
 <a name="anc-ai"></a>
 <a name="1.2.3"></a>
 ### 1.2.3 Artificial Intelligence ![#](https://img.shields.io/badge/lint-supported-green.svg)
@@ -313,6 +314,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Physical Material       | PM_        |            |                                  |
+| Physics Asset           | PA_        |            |                                  |
 
 <a name="anc-sounds"></a>
 <a name="1.2.10"></a>
