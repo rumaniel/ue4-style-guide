@@ -231,6 +231,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Material                | M_         |            |                                  |
 | Material (Post Process) | PP_        |            |                                  |
+| Material Instance (Post Process) | PPI_        |            |                                  |
 | Material Function       | MF_        |            |                                  |
 | Material Instance       | MI_        |            |                                  |
 | Material Parameter Collection | MPC_ |            |                                  |
