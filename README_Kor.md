@@ -316,6 +316,7 @@ Unreal Engine 4 팀에 참가할 때 당신의 처음 질문 중 하나는 "스�
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Physical Material       | PM_        |            |                                  |
 | Physics Asset           | PA_        |            |                                  |
+| Destructible Mesh           | DM_        |            |                                  |
 
 <a name="anc-sounds"></a>
 <a name="1.2.10"></a>
