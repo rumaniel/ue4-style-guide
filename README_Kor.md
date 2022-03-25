@@ -1,4 +1,4 @@
-# [MocaFactory] (http://www.mocadeco.com) UE4 Style Guide() {
+# UE4 Style Guide() {
 
 *Unreal Engine 4에 대한 일반적으로 합리적인 접근 방법*
 
